@@ -13,9 +13,8 @@
 ---
 
 ![Created](https://img.shields.io/date/1556543593.svg)
-![commit activity](https://img.shields.io/github/commit-activity/m/Searge/DiveinPython.svg)
-![last commit](https://img.shields.io/github/last-commit/Searge/DiveinPython.svg)
-![Lang count](https://img.shields.io/github/languages/count/Searge/DiveinPython.svg)
-![Code size](https://img.shields.io/github/languages/code-size/Searge/DiveinPython.svg)
-![Repo size](https://img.shields.io/github/repo-size/Searge/DiveinPython.svg)
+![last commit](https://img.shields.io/github/last-commit/Searge/PythonBasics_HSEU.svg)
+![Lang count](https://img.shields.io/github/languages/count/Searge/PythonBasics_HSEU.svg)
+![Code size](https://img.shields.io/github/languages/code-size/Searge/PythonBasics_HSEU.svg)
+![Repo size](https://img.shields.io/github/repo-size/Searge/PythonBasics_HSEU.svg)
 ***
